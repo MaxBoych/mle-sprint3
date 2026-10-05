@@ -1,6 +1,5 @@
 from catboost import CatBoostClassifier
 
-
 class FastApiHandler:
 
     def __init__(self):
